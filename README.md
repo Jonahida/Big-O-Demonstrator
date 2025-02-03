@@ -17,12 +17,12 @@ This table summarizes the expected output for various algorithms with different 
 |------------------------------|-------------|--------------------|---------|
 | `Bubble Sort (O(n²))`         | 10          | 0.000010           | Horrible|
 | `Cubic Time (O(n³))`          | 10          | 0.000083           | Horrible|
+| `Fibonacci (O(2^n))`          | 10          | 0.000018           | Horrible|
+| `Factorial (O(n!))`           | 10          | 0.000002           | Horrible|
 | `Merge Sort (O(n log n))`     | 10          | 0.000017           | Bad     |
 | `Linear Search (O(n))`        | 10          | 0.000001           | Fair    |
 | `Binary Search (O(log n))`    | 10          | 0.000001           | Good    |
 | `Constant Time (O(1))`        | 10          | 0.000000           | Good    |
-| `Fibonacci (O(2^n))`          | 10          | 0.000018           | Horrible|
-| `Factorial (O(n!))`           | 10          | 0.000002           | Horrible|
 
 ---
 
