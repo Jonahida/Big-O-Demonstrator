@@ -55,7 +55,7 @@ pip3 install -r requirements.txt
 To visualize and compare the time complexities, simply run the `big_o_demonstrator.py` script:
 
 ```bash
-python big_o_demonstrator.py
+python big_o_demo.py
 ```
 
 The script will measure and print the execution times for the various algorithms and plot a graph comparing their performance.
